@@ -1,7 +1,7 @@
 # ToDo-FullStack-App
 
 ### Frontend resource:
-https://www.youtube.com/watch?v=TmDNBEdHzVs
+1. https://www.youtube.com/watch?v=TmDNBEdHzVs
 
 ### Backend resource:
 
